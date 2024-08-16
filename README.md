@@ -7,3 +7,5 @@ open index.html
 ```
 Note that using Webpack is obselete and this archive has been provided
 for compatibility reasons. Prefer using Vite, check it at https://vitejs.dev
+
+![ReactFacts (1)](https://github.com/user-attachments/assets/7e4b66db-7fe6-4a01-a5c2-e31b4fa21b3c)
